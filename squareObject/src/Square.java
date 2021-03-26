@@ -7,12 +7,13 @@ public class Square {
     Square(double newLength){
         length = newLength;
     }
-
+    double getArea(){
+        return length*length;
+    }
     void color(String c1){
         color = c1;
     }
-
-    double getArea(){
-        return length*length;
+    String getColor(){
+        return color;
     }
 }
