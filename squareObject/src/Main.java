@@ -32,6 +32,5 @@ public class Main {
         String db = input.next();
 
         System.out.println("\nHave a great day!");
-
     }
 }
