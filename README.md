@@ -1,2 +1,2 @@
 # miniJava
-creating a small project to test out my skills
+creating a small project to showcase some of my basic skills
