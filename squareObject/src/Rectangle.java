@@ -3,7 +3,7 @@ public class Rectangle extends Square {
 
     Rectangle(double newLength){
         width = newLength;
-        length = 2*width;
+        length = Math.round(Math.random()*10);
     }
 
     double getArea(){
